@@ -1,1 +1,4 @@
 - 17 years old
+- currently learning java, c++
+- big fan of music
+- exploring open source
