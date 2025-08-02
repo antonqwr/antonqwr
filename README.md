@@ -1,4 +1,4 @@
 - 17 years old
-- currently learning Java, C++, TypeScript
+- currently learning Java, C++, TypeScript, Svelte, SvelteKit
 - exploring open source
 - big fan of music
