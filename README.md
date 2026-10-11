@@ -3,3 +3,4 @@
 - familiar with Lua, SvelteKit, JavaScript, TypeScript, HTML, and CSS
 - exploring open source projects
 - big fan of music
+- part of [@walkloop](https://github.com/walkloop)
