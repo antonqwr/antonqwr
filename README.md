@@ -1,4 +1,4 @@
-- 18 years old
+- 19 years old
 - currently learning Rust, Python, Java and C++
 - familiar with Lua, SvelteKit, JavaScript, TypeScript, HTML, and CSS
 - exploring open source projects
